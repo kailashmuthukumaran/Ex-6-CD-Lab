@@ -1,8 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :05-11-24
-# NAME:N.Navya Sree
-# Reg.No:212223040138
+# Date :07-11-24
+# NAME:S.M.Kailash
+# Reg.No:212222040068
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
